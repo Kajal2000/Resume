@@ -10,8 +10,7 @@ I am pursuing B.A from Araria college in Bihar, and training in software develop
 Academic Period Spent in NavGurukul So Far                                                                      15  months
 
 
-Projects
-( Python )
+Projects (Python )
 
 Request_saral (code)
 Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
@@ -41,7 +40,6 @@ Experience
 Admissions Team Member
 Navgurukul
 I interviewed candidates for Navgurukul  2019-20 batch. I prepared a study guide to help candidates prepare for Navgurukul test and interview.
-
 
 
 Information Technology Council Member
