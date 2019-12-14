@@ -40,6 +40,7 @@ I was responsible for managing and maintaining all the IT infra of girls’ camp
 
 
 ### Volunteer
+
 ### Project Potential (2017)
 I worked with Project Potential to research and understand about local businesses.I surveyed  local business owners and  helped them to grow their business and generate employment.   
 
