@@ -1,5 +1,5 @@
-## Kajal Kumari
-### Python/Node.js
+### Kajal Kumari
+## Python/Node.js
                                                                                                                                                                                                                                                                                                                                                                     LinkedIn, Github
                                                                                                          Bangalore(560099)
                                                                                                          8210617396
