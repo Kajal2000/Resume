@@ -41,9 +41,8 @@ I was responsible for managing and maintaining all the IT infra of girls’ camp
 ### Project Potential (2017)
 I worked with Project Potential to research and understand about local businesses.I surveyed  local business owners and  helped them to grow their business and generate employment.   
 
-
 ### Education
-### NavGurukul 
+NavGurukul 
 Attending a one-year residential course to learn Software Engineering simultaneously working on many different projects.
 
 Araria college  
