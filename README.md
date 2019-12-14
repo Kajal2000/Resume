@@ -10,7 +10,7 @@
 
 I am pursuing B.A from Araria college in Bihar, and training in software development at Navgurukul. I believe in hardwork and want to work as a  back-end software developer. I want to contribute back to Navgurukul to enable other girls like me to pursue this opportunity. I want to explore new opportunities and meet different types of people.
 
-Academic Period Spent in NavGurukul So Far                                                                      15  months
+Academic Period Spent in NavGurukul So Far                                                                        15  months
 
 ### Projects (Python)
 Request_saral ([code](https://github.com/Kajal2000/python_Request/blob/master/request.py))
