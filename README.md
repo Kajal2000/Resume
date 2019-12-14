@@ -8,22 +8,22 @@ I am pursuing B.A from Araria college in Bihar, and training in software develop
 
 Academic Period Spent in NavGurukul So Far                                                                      15  months
 
-### Projects (Python )
-Request_saral (code)
+### Projects (Python)
+Request_saral [code](https://github.com/Kajal2000/python_Request/blob/master/request.py)
 Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
 
-### KBC (code)
+### KBC [code](https://github.com/Kajal2000/kbc/blob/master/kbc.py)
 This game is similar to the popular TV show Kaun Banega Crorepati written in Python . I had done this while learning Python.
 
-### Web_scraping from IMDB movie website (code)
+### Web_scraping from IMDB movie website [code](https://github.com/Kajal2000/Web_scraping/tree/master/Imdb%20website)
 Scraped data of movies from IMDB and done analysis like group all the movies by year, group by decade. Scraped genre, cast, and languages of the movies, analyzed based on languages, based on directors, found the common cast and their repetitions among all the 250 movies.
 
 ### Projects (Node.js)
 
-Crud with mysql (code)
+Crud with mysql [code](https://github.com/Kajal2000/crud_mysql_using_knex)
 In this project I used knex and  mysql database to get, post, put and delete using node.js
 
-### Weather_Api (code)
+### Weather_Api [code](https://github.com/Kajal2000/weather-API/blob/master/routs.js)
 In this project user can get weather related data like City name, Country name, sunrise and sunset timings, etc. from OpenWeatherMap. In this project I used mysql database and the methods get, post, put, and delete in node.js. 
 
 
