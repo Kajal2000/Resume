@@ -13,7 +13,7 @@ Academic Period Spent in NavGurukul So Far                                      
 Request_saral (code)
 Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
 
-## KBC (code)
+### KBC (code)
 This game is similar to the popular TV show Kaun Banega Crorepati written in Python . I had done this while learning Python.
 
 ### Web_scraping from IMDB movie website (code)
@@ -42,8 +42,8 @@ I was responsible for managing and maintaining all the IT infra of girls’ camp
 I worked with Project Potential to research and understand about local businesses.I surveyed  local business owners and  helped them to grow their business and generate employment.   
 
 
-## Education
-## NavGurukul 
+### Education
+### NavGurukul 
 Attending a one-year residential course to learn Software Engineering simultaneously working on many different projects.
 
 Araria college  
