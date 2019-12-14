@@ -9,11 +9,11 @@ I am pursuing B.A from Araria college in Bihar, and training in software develop
 Academic Period Spent in NavGurukul So Far                                                                      15  months
 
 ### Projects (Python)
-Request_saral [[code]](https://github.com/Kajal2000/python_Request/blob/master/request.py)
+Request_saral ([code](https://github.com/Kajal2000/python_Request/blob/master/request.py))
 
 Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
 
-### KBC ([code])(https://github.com/Kajal2000/kbc/blob/master/kbc.py)
+### KBC [code](https://github.com/Kajal2000/kbc/blob/master/kbc.py)
 This game is similar to the popular TV show Kaun Banega Crorepati written in Python . I had done this while learning Python.
 
 ### Web_scraping from IMDB movie website [code](https://github.com/Kajal2000/Web_scraping/tree/master/Imdb%20website)
