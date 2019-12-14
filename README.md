@@ -1,7 +1,7 @@
 ### Kajal Kumari                                                                                      
 ### Python/Node.js  
                                                                                                      [Linkedin](https://www.linkedin.com/feed/)
-                                                                                                      [Github](https://github.com/Kajal2000?tab=repositories)
+                                                                                                     [Github](https://github.com/Kajal2000?tab=repositories)
                                                                                                       Bangalore(56009)
                                                                                                       8210617396
                                                                                                       kajal18@navgurukul.org
