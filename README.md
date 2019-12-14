@@ -1,11 +1,11 @@
 ### Kajal Kumari                                                                                      
 ### Python/Node.js  
-                                                                                                      [Linkedin](https://www.linkedin.com/feed/)
+                                                                                                     --- [Linkedin](https://www.linkedin.com/feed/)
                                                                                                       [Github](https://github.com/Kajal2000?tab=repositories)
                                                                                                       Bangalore(56009)
                                                                                                       8210617396
                                                                                                       kajal18@navgurukul.org
-
+---
 
 
 I am pursuing B.A from Araria college in Bihar, and training in software development at Navgurukul. I believe in hardwork and want to work as a  back-end software developer. I want to contribute back to Navgurukul to enable other girls like me to pursue this opportunity. I want to explore new opportunities and meet different types of people.
