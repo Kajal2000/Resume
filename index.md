@@ -13,13 +13,13 @@ Academic Period Spent in NavGurukul So Far                                      
 Request_saral (code)
 Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
 
-### KBC (code)
+## KBC (code)
 This game is similar to the popular TV show Kaun Banega Crorepati written in Python . I had done this while learning Python.
 
 ### Web_scraping from IMDB movie website (code)
 Scraped data of movies from IMDB and done analysis like group all the movies by year, group by decade. Scraped genre, cast, and languages of the movies, analyzed based on languages, based on directors, found the common cast and their repetitions among all the 250 movies.
 
-### Projects (Node.js)
+## Projects (Node.js)
 
 Crud with mysql (code)
 In this project I used knex and  mysql database to get, post, put and delete using node.js
