@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+Kajal Kumari
+Python/Node.js
+                                                                                                                                                                                                                                        LinkedIn, Github
+                                                                                                         Bangalore(560099)
+                                                                                                         8210617396
+                                                                                                       kajal18@navgurukul.org                                                                                                                             
+                                                                                                                                                                                                                                                          
+I am pursuing B.A from Araria college in Bihar, and training in software development at Navgurukul. I believe in hardwork and want to work as a  back-end software developer. I want to contribute back to Navgurukul to enable other girls like me to pursue this opportunity. I want to explore new opportunities and meet different types of people.
 
-You can use the [editor on GitHub](https://github.com/Kajal2000/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Academic Period Spent in NavGurukul So Far                                                                      15  months
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Projects
+( Python )
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Request_saral (code)
+Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+KBC (code)
+This game is similar to the popular TV show Kaun Banega Crorepati written in Python . I had done this while learning Python.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Web_scraping from IMDB movie website (code)
+Scraped data of movies from IMDB and done analysis like group all the movies by year, group by decade. Scraped genre, cast, and languages of the movies, analyzed based on languages, based on directors, found the common cast and their repetitions among all the 250 movies.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Projects
+(Node.js)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Crud with mysql (code)
+In this project I used knex and  mysql database to get, post, put and delete using node.js
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kajal2000/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Weather_Api (code)
+In this project user can get weather related data like City name, Country name, sunrise and sunset timings, etc. from OpenWeatherMap. In this project I used mysql database and the methods get, post, put, and delete in node.js. 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Experience
+
+Admissions Team Member
+Navgurukul
+I interviewed candidates for Navgurukul  2019-20 batch. I prepared a study guide to help candidates prepare for Navgurukul test and interview.
+
+
+
+Information Technology Council Member
+NavGurukul
+I was responsible for managing and maintaining all the IT infra of girls’ campus of NavGurukul in Bangalore. I helped all the students to deal with any kind of problems they are facing related to IT.
+
+
+
+Volunteer
+Project Potential  (2017)
+I worked with Project Potential to research and understand about local businesses.I surveyed  local business owners and  helped them to grow their business and generate employment.   
+
+
+
+Education
+
+NavGurukul 
+Attending a one-year residential course to learn Software Engineering simultaneously working on many different projects.
+
+Araria college  
+Pursuing B.A 2nd year 
+
+Mahila College, Araria
+Passed 12th from Bihar board in 2017 .
+
+
+
+
+
