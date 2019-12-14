@@ -9,7 +9,8 @@ I am pursuing B.A from Araria college in Bihar, and training in software develop
 Academic Period Spent in NavGurukul So Far                                                                      15  months
 
 ### Projects (Python)
-Request_saral [code](https://github.com/Kajal2000/python_Request/blob/master/request.py)<br></br>
+Request_saral [code](https://github.com/Kajal2000/python_Request/blob/master/request.py)
+
 Implemented using Python to understand & implement best practices in coding This project is the prototype of our e-learning website Saral.
 
 ### KBC [code](https://github.com/Kajal2000/kbc/blob/master/kbc.py)
